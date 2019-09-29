@@ -861,6 +861,7 @@ h2.menu-item:after {
     padding: 120px 70px 30px;
     height: auto;
     overflow: hidden;
+    background-color: #ececec;
 }
 
 .content-blocks.pop {
